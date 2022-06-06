@@ -44,10 +44,10 @@ git push
 
 cat > new.json
 {
-  "ФИО": "Давиденко Юлия Витальевна",
-  "Возраст": 27,
-  "Количество домашних животных": 0,
-  "Будущая желаемая зарплата": "$500"
+  "FIO":"Давиденко Юлия Витальевна",
+  "Vozrast":27,
+  "Kolichestvo_domashnih_zhyvotnyh":0,
+  "Budushchaya_zhelaemaya_zarplata":"$500"
 }
 enter
 сtrl + C
